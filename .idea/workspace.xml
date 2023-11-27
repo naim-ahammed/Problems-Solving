@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d710845-2146-4769-8df9-af1454dda081" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems Solving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tamim_shahriar_subeen_programming_problem_52/Problem_1.java" afterDir="false" />
+    <list default="true" id="2d710845-2146-4769-8df9-af1454dda081" name="Changes" comment="problem of tamim shahriar subeen. problem output show even and odd number char add in 1 to 100">
+      <change afterPath="$PROJECT_DIR$/src/tamim_shahriar_subeen_programming_problem_52/Problem_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Problem_3">
     <configuration name="Problem_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tamim_shahriar_subeen_programming_problem_52.Problem_1" />
       <module name="Problems Solving" />
@@ -57,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tamim_shahriar_subeen_programming_problem_52.Problem_3" />
+      <module name="Problems Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tamim_shahriar_subeen_programming_problem_52.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_3" />
         <item itemvalue="Application.Problem_1" />
       </list>
     </recent_temporary>
@@ -72,6 +81,26 @@
       <option name="presentableId" value="Default" />
       <updated>1700992136026</updated>
     </task>
+    <task id="LOCAL-00001" summary="Solving the first problem of tamim shahriar subeen. problem output show even and odd">
+      <created>1700994009479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700994009479</updated>
+    </task>
+    <task id="LOCAL-00002" summary="problem of tamim shahriar subeen. problem output show even and odd number char add in 1 to 100">
+      <created>1701007456814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701007456814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solving the first problem of tamim shahriar subeen. problem output show even and odd" />
+    <MESSAGE value="problem of tamim shahriar subeen. problem output show even and odd number char add in 1 to 100" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem of tamim shahriar subeen. problem output show even and odd number char add in 1 to 100" />
   </component>
 </project>

@@ -1,10 +1,9 @@
-package tamim_shahriar_subeen_programming_problem_52;
-
+package tamim_shahriar_subeen_52_programming_problem;
 
 import java.util.Scanner;
 
-// input any number print * row and colum
-public class Problem_5 {
+// divisor
+public class Problem_4 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,17 +14,15 @@ public class Problem_5 {
 
         for (i=1; i<=t; i++){
             n = sc.nextInt();
-
+            System.out.print("Case "+i+":");
             for (j=1; j<=n; j++){
-
-                for (int k=1; k<=n; k++){
-                    System.out.print("*");
+                if(n%j==0){
+                    System.out.print(" "+j);
                 }
-                System.out.println();
             }
+            System.out.println();
 
         }
-
 
     }
 }

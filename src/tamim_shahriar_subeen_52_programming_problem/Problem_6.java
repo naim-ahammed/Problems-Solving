@@ -1,4 +1,4 @@
-package tamim_shahriar_subeen_programming_problem_52;
+package tamim_shahriar_subeen_52_programming_problem;
 
 
 import java.util.Scanner;

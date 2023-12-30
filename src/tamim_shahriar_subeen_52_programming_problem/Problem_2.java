@@ -1,5 +1,6 @@
-package tamim_shahriar_subeen_programming_problem_52;
+package tamim_shahriar_subeen_52_programming_problem;
 
+//even odd 2
 import java.util.Scanner;
 
 public class Problem_2 {

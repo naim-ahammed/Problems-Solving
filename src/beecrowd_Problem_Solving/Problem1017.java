@@ -1,4 +1,4 @@
-package beerowd_Problem_Solving;
+package beecrowd_Problem_Solving;
 
 
 import java.io.IOException;
